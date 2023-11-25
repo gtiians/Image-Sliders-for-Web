@@ -1,1 +1,1 @@
-# Img-Sliders-for-Web
+# Image-Sliders-for-Web
